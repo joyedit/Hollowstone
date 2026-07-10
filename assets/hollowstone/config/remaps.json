@@ -1,0 +1,25 @@
+{
+ "hollowstone:migrate-from-seraphsledger-1": [
+  "/bir remapq hollowstone:hiddenlockbox-andesite seraphsledger:hiddenlockbox-andesite force",
+  "/bir remapq hollowstone:hiddenlockbox-chalk seraphsledger:hiddenlockbox-chalk force",
+  "/bir remapq hollowstone:hiddenlockbox-chert seraphsledger:hiddenlockbox-chert force",
+  "/bir remapq hollowstone:hiddenlockbox-conglomerate seraphsledger:hiddenlockbox-conglomerate force",
+  "/bir remapq hollowstone:hiddenlockbox-limestone seraphsledger:hiddenlockbox-limestone force",
+  "/bir remapq hollowstone:hiddenlockbox-claystone seraphsledger:hiddenlockbox-claystone force",
+  "/bir remapq hollowstone:hiddenlockbox-granite seraphsledger:hiddenlockbox-granite force",
+  "/bir remapq hollowstone:hiddenlockbox-sandstone seraphsledger:hiddenlockbox-sandstone force",
+  "/bir remapq hollowstone:hiddenlockbox-shale seraphsledger:hiddenlockbox-shale force",
+  "/bir remapq hollowstone:hiddenlockbox-basalt seraphsledger:hiddenlockbox-basalt force",
+  "/bir remapq hollowstone:hiddenlockbox-peridotite seraphsledger:hiddenlockbox-peridotite force",
+  "/bir remapq hollowstone:hiddenlockbox-phyllite seraphsledger:hiddenlockbox-phyllite force",
+  "/bir remapq hollowstone:hiddenlockbox-slate seraphsledger:hiddenlockbox-slate force",
+  "/bir remapq hollowstone:hiddenlockbox-obsidian seraphsledger:hiddenlockbox-obsidian force",
+  "/bir remapq hollowstone:hiddenlockbox-kimberlite seraphsledger:hiddenlockbox-kimberlite force",
+  "/bir remapq hollowstone:hiddenlockbox-bauxite seraphsledger:hiddenlockbox-bauxite force",
+  "/bir remapq hollowstone:hiddenlockbox-suevite seraphsledger:hiddenlockbox-suevite force",
+  "/bir remapq hollowstone:hiddenlockbox-whitemarble seraphsledger:hiddenlockbox-whitemarble force",
+  "/bir remapq hollowstone:hiddenlockbox-redmarble seraphsledger:hiddenlockbox-redmarble force",
+  "/bir remapq hollowstone:hiddenlockbox-greenmarble seraphsledger:hiddenlockbox-greenmarble force",
+  "/iir remapq hollowstone:secretspage seraphsledger:secretspage force"
+ ]
+}
