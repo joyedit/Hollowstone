@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "hollowstone",
+  "name": "Hollowstone",
+  "authors": ["Feyd"],
+  "description": "Chisel a hidden lockbox into any cobblestone block — indistinguishable from plain stone until you sneak-click it and a small stone drawer slides out. Craft a Page of Secrets to find your stashes again: whoever holds a page sees floating markers over its owner's lockboxes, so a stolen page is a treasure map to another player's hoard. Program a four-stone press combination onto a box and even a thief who finds it stares at mute cobblestone.",
+  "version": "1.0.0",
+  "iconPath": "modicon.png",
+  "dependencies": {
+    "game": ""
+  }
+}
