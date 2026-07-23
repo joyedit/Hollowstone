@@ -2,6 +2,11 @@
 
 All notable changes to Hollowstone are documented here.
 
+## 1.0.1 — 2026-07-23
+
+- Compatibility release for Vintage Story 1.22.5. Rebuilt against the 1.22.5
+  assemblies; no code changes.
+
 ## 1.0.0
 
 Initial standalone release. Hollowstone began life inside The Seraph's Ledger
